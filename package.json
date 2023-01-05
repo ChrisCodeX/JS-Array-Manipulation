@@ -1,0 +1,24 @@
+{
+  "name": "js-array-manipulation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisCodeX/JS-Array-Manipulation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisCodeX/JS-Array-Manipulation/issues"
+  },
+  "homepage": "https://github.com/ChrisCodeX/JS-Array-Manipulation#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "typescript": "^4.9.4"
+  }
+}
