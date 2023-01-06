@@ -5,7 +5,10 @@ const users = [
 ]
 
 const rta = users.map((user) => user.attributes);
-console.log(rta.flat);
+console.log(rta.flat());
+
+const rta3 = users.flatMap((user) => user.attributes)
+console.log(rta3)
 
 /*  */
 const calendars = {
